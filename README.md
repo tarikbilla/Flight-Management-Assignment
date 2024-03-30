@@ -20,9 +20,10 @@ This is a simple Airline Booking System implemented using PHP and MySQL. It allo
 ## Setup Instructions
 
 1. Clone the repository to your local machine.
-2. Import the database schema from `database_schema.sql` file to your MySQL server.
-3. Update the `config.php` file with your MySQL database credentials.
-4. Launch the project using a web server such as Apache or Nginx.
+2. Create a database ex: flight_management.
+3. Import the database schema from `flight_management.sql` file to your MySQL server.
+4. Update the `config.php` file with your MySQL database credentials.
+5. Launch the project using a web server such as Apache or Nginx.
 
 ## File Structure
 
