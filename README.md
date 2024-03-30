@@ -38,7 +38,7 @@ This is a simple Airline Booking System implemented using PHP and MySQL. It allo
 
 ## Contributors
 
-- [Your Name](https://github.com/tarikbilla)
+- [Tarik Billa](https://github.com/tarikbilla)
 
 ## License
 
